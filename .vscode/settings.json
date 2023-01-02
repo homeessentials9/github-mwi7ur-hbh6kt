@@ -1,12 +1,12 @@
 {
   /**
    * Controls whether suggestions should be accepted on commit characters.
-   * For example, in JavaScript, the semi-colon (;) can be a commit character that accepts a suggestion and types that character.
+   * For example, in JavaScript, the semi-colon (;) can be a committed character that accepts a suggestion and types that character.
    * Defaults to true.
    */
   // "editor.acceptSuggestionOnCommitCharacter": true,
   /**
-   * Controls whether suggestions should be accepted on Enter, in addition to Tab. Helps to avoid ambiguity between inserting new lines or accepting suggestions.
+   * Controls whether suggestions should be accepted on Enter and Tab. Helps to avoid ambiguity between inserting new lines or accepting suggestions.
    * Can be: 'on', 'off', or 'smart'.
    * Defaults to 'on'.
    */
